@@ -1,0 +1,13 @@
+Dependencies for Project 'Lab14', Target 'Lab14': (DO NOT MODIFY !)
+F (.\startup.s)(0x57019B88)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I E:\Campus\Courses\Embedded\TM4C123GXL\Keil\ARM\RV31\INC-I E:\Campus\Courses\Embedded\TM4C123GXL\Keil\ARM\CMSIS\Include-I E:\Campus\Courses\Embedded\TM4C123GXL\Keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\MeasurementOfDistance.c)(0x5E2DDE40)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I E:\Campus\Courses\Embedded\TM4C123GXL\Keil\ARM\RV31\INC-I E:\Campus\Courses\Embedded\TM4C123GXL\Keil\ARM\CMSIS\Include-I E:\Campus\Courses\Embedded\TM4C123GXL\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\measurementofdistance.o --omf_browse .\measurementofdistance.crf --depend .\measurementofdistance.d)
+I (ADC.h)(0x569B7108)
+I (..//tm4c123gh6pm.h)(0x51D462A2)
+I (Nokia5110.h)(0x54A12982)
+I (TExaS.h)(0x569B6FCA)
+F (.\Nokia5110.c)(0x54A12982)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I E:\Campus\Courses\Embedded\TM4C123GXL\Keil\ARM\RV31\INC-I E:\Campus\Courses\Embedded\TM4C123GXL\Keil\ARM\CMSIS\Include-I E:\Campus\Courses\Embedded\TM4C123GXL\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\nokia5110.o --omf_browse .\nokia5110.crf --depend .\nokia5110.d)
+I (Nokia5110.h)(0x54A12982)
+F (.\ADC.c)(0x5E2C89E9)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I E:\Campus\Courses\Embedded\TM4C123GXL\Keil\ARM\RV31\INC-I E:\Campus\Courses\Embedded\TM4C123GXL\Keil\ARM\CMSIS\Include-I E:\Campus\Courses\Embedded\TM4C123GXL\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\adc.o --omf_browse .\adc.crf --depend .\adc.d)
+I (ADC.h)(0x569B7108)
+I (..//tm4c123gh6pm.h)(0x51D462A2)
+F (.\texas.o)(0x569B6DC6)()
